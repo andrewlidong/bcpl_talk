@@ -147,6 +147,5 @@ $)
 *Rather, BCPL acts more as a servant*
 *offering his services to the best of his ability without complaint*
 *even when confronted with apparent nonsense.*
-
 *The programmer is always assumed to know*
 *what he is doing and is not hemmed in by petty restrictions.*
