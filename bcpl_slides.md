@@ -50,14 +50,18 @@ LET START() BE WRITES("Hello, World")
 
     - The language is unusual in having only one data type: a word
     - For many machines of the time, this data type was a 16-bit word. 
-    - This choice later proved to be a significant problem when BCPL was used on machines in which the smallest addressable item was not a word but a byte.  
+    - This choice later proved to be a significant problem 
+    when BCPL was used on machines in which the smallest 
+    addressable item was not a word but a byte.  
 
 ---
 
 # Curly braces
 
    - BCPL was the first brace programming language.  
-   - In practice, on limited keyboards of the day, source programs often used the sequences $( and $) or [ and ] in place of the symbols { and }.
+   - In practice, on limited keyboards of the day, 
+   source programs often used the sequences $( and $) 
+   or [ and ] in place of the symbols { and }.
 
 ![open bcpl_keyboard.jpeg](bcpl_keyboard.jpeg)
 
@@ -67,7 +71,8 @@ LET START() BE WRITES("Hello, World")
 # Multi-User Dungeon
 
    - The first MUD was also written in BCPL (MUD1)
-   - Trubshaw named the game Multi-User Dungeon, in tribute to the Dungeon variant of Zork
+   - Trubshaw named the game Multi-User Dungeon, 
+   in tribute to the Dungeon variant of Zork
 
 ![open bcpl_mud.png](bcpl_mud.png)
 
@@ -76,7 +81,9 @@ LET START() BE WRITES("Hello, World")
 
 # Relationship to C
 
-   - Programmers at the time debated whether an eventual successor to C would be called "D", the next letter in the alphabet, or "P"
+   - Programmers at the time debated whether an 
+   eventual successor to C would be called "D", 
+    the next letter in the alphabet, or "P"
 
 ![open bcpl_daddy.jpg](bcpl_daddy.jpg)
 
@@ -120,16 +127,26 @@ $)
 # BCPL Today
 
 
-   - Martin Richards maintains a modern version of BCPL on his website, last updated in 2023
-   - This can be set up to run on various systems including Linux, FreeBSD, and Mac OS X. The latest distribution includes graphics and sound libraries, and there is a comprehensive manual. 
-   - He continues to program in it, including for his research on musical automated score following.
+   - Martin Richards maintains a modern version of BCPL 
+   on his website, last updated in 2023
+   - This can be set up to run on various systems including 
+   Linux, FreeBSD, and Mac OS X. 
+   - The latest distribution includes graphics and sound 
+   libraries, and there is a comprehensive manual. 
+   - He continues to program in it, including for his 
+   research on musical automated score following.
 
 ---
 
-# The book of BCPL
+# **The book of BCPL**
 
-**The philosophy of BCPL is not one of the tyrant who thinks he knows best and lays down the law on what is and what is not allowed**
+*The philosophy of BCPL is not one of the tyrant*
+*who thinks he knows best and lays down the law on*
+*what is and what is not allowed.*
 
-**rather, BCPL acts more as a servant offering his services to the best of his ability without complaint, even when confronted with apparent nonsense**
+*Rather, BCPL acts more as a servant*
+*offering his services to the best of his ability without complaint*
+*even when confronted with apparent nonsense.*
 
-**The programmer is always assumed to know what he is doing and is not hemmed in by petty restrictions**
+*The programmer is always assumed to know*
+*what he is doing and is not hemmed in by petty restrictions.*
